@@ -1,3 +1,3 @@
 # LTN
-LTN Demo\\
-Some descriptions.
+
+LTN Demo.
